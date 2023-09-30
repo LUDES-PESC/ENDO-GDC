@@ -3,6 +3,8 @@
 Material de distribuição do ENDO-GDC
 Endogenous Game Design Canvas (ENDO-GDC)
 
+![EndoGDC](https://github.com/LUDES-PESC/ENDO-GDC/assets/3393677/36fea7b4-0583-429c-ae31-ab9d28523eeb)
+
 O Endogenous Game Design Canvas (ENDO-GDC) é um canvas destinado a criação de propostas conceituais de jogos educacionais endógenos.
 
 O ENDO-GDC é um canvas que deve normalmente ser impresso em uma folha A2 ou maior.
